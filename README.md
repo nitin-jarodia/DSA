@@ -5,12 +5,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nitin-jarodia/DSA/tree/master/0036-valid-sudoku) |
+| [0560-subarray-sum-equals-k](https://github.com/nitin-jarodia/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nitin-jarodia/DSA/tree/master/0036-valid-sudoku) |
+| [0560-subarray-sum-equals-k](https://github.com/nitin-jarodia/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nitin-jarodia/DSA/tree/master/0036-valid-sudoku) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/nitin-jarodia/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
