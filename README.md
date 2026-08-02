@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/nitin-jarodia/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/nitin-jarodia/DSA/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/nitin-jarodia/DSA/tree/master/0036-valid-sudoku) |
 | [0169-majority-element](https://github.com/nitin-jarodia/DSA/tree/master/0169-majority-element) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/nitin-jarodia/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/nitin-jarodia/DSA/tree/master/0027-remove-element) |
 ## Divide and Conquer
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/nitin-jarodia/DSA/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/nitin-jarodia/DSA/tree/master/0169-majority-element) |
 ## Counting
 |  |
