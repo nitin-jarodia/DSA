@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/nitin-jarodia/DSA/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/nitin-jarodia/DSA/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/nitin-jarodia/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/nitin-jarodia/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nitin-jarodia/DSA/tree/master/0036-valid-sudoku) |
+| [0169-majority-element](https://github.com/nitin-jarodia/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/nitin-jarodia/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
@@ -24,4 +26,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/nitin-jarodia/DSA/tree/master/0027-remove-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nitin-jarodia/DSA/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nitin-jarodia/DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nitin-jarodia/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
