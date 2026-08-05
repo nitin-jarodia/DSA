@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/nitin-jarodia/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitin-jarodia/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/nitin-jarodia/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/nitin-jarodia/DSA/tree/master/0567-permutation-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nitin-jarodia/DSA/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitin-jarodia/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nitin-jarodia/DSA/tree/master/0189-rotate-array) |
+| [0567-permutation-in-string](https://github.com/nitin-jarodia/DSA/tree/master/0567-permutation-in-string) |
 | [0881-boats-to-save-people](https://github.com/nitin-jarodia/DSA/tree/master/0881-boats-to-save-people) |
 ## Divide and Conquer
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitin-jarodia/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/nitin-jarodia/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitin-jarodia/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/nitin-jarodia/DSA/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,4 +92,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitin-jarodia/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitin-jarodia/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/nitin-jarodia/DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
