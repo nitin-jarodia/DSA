@@ -121,4 +121,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/nitin-jarodia/DSA/tree/master/1114-print-in-order) |
+| [1195-fizz-buzz-multithreaded](https://github.com/nitin-jarodia/DSA/tree/master/1195-fizz-buzz-multithreaded) |
 <!---LeetCode Topics End-->
