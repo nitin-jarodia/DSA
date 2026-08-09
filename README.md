@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/nitin-jarodia/DSA/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/nitin-jarodia/DSA/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
@@ -123,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-print-in-order](https://github.com/nitin-jarodia/DSA/tree/master/1114-print-in-order) |
 | [1195-fizz-buzz-multithreaded](https://github.com/nitin-jarodia/DSA/tree/master/1195-fizz-buzz-multithreaded) |
 | [1226-the-dining-philosophers](https://github.com/nitin-jarodia/DSA/tree/master/1226-the-dining-philosophers) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nitin-jarodia/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/nitin-jarodia/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
