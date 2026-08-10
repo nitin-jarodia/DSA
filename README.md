@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/nitin-jarodia/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/nitin-jarodia/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/nitin-jarodia/DSA/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/nitin-jarodia/DSA/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/nitin-jarodia/DSA/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/nitin-jarodia/DSA/tree/master/0881-boats-to-save-people) |
 | [1480-running-sum-of-1d-array](https://github.com/nitin-jarodia/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -132,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nitin-jarodia/DSA/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/nitin-jarodia/DSA/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/nitin-jarodia/DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
