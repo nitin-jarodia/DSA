@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/nitin-jarodia/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/nitin-jarodia/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nitin-jarodia/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/nitin-jarodia/DSA/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/nitin-jarodia/DSA/tree/master/0881-boats-to-save-people) |
 | [1480-running-sum-of-1d-array](https://github.com/nitin-jarodia/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nitin-jarodia/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nitin-jarodia/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nitin-jarodia/DSA/tree/master/0169-majority-element) |
 | [0658-find-k-closest-elements](https://github.com/nitin-jarodia/DSA/tree/master/0658-find-k-closest-elements) |
+| [0853-car-fleet](https://github.com/nitin-jarodia/DSA/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/nitin-jarodia/DSA/tree/master/0881-boats-to-save-people) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitin-jarodia/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/nitin-jarodia/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/nitin-jarodia/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nitin-jarodia/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/nitin-jarodia/DSA/tree/master/0853-car-fleet) |
 ## Simulation
 |  |
 | ------- |
@@ -173,4 +176,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/nitin-jarodia/DSA/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/nitin-jarodia/DSA/tree/master/0853-car-fleet) |
 <!---LeetCode Topics End-->
