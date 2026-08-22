@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitin-jarodia/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/nitin-jarodia/DSA/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/nitin-jarodia/DSA/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/nitin-jarodia/DSA/tree/master/0071-simplify-path) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitin-jarodia/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/nitin-jarodia/DSA/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nitin-jarodia/DSA/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/nitin-jarodia/DSA/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nitin-jarodia/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/nitin-jarodia/DSA/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/nitin-jarodia/DSA/tree/master/0682-baseball-game) |
