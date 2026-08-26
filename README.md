@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/nitin-jarodia/DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/nitin-jarodia/DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/nitin-jarodia/DSA/tree/master/0881-boats-to-save-people) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/nitin-jarodia/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1480-running-sum-of-1d-array](https://github.com/nitin-jarodia/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nitin-jarodia/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitin-jarodia/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/nitin-jarodia/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/nitin-jarodia/DSA/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/nitin-jarodia/DSA/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/nitin-jarodia/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Math
 |  |
 | ------- |
