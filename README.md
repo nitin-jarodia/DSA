@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nitin-jarodia/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/nitin-jarodia/DSA/tree/master/0036-valid-sudoku) |
+| [0141-linked-list-cycle](https://github.com/nitin-jarodia/DSA/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/nitin-jarodia/DSA/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/nitin-jarodia/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitin-jarodia/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/nitin-jarodia/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/nitin-jarodia/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/nitin-jarodia/DSA/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/nitin-jarodia/DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitin-jarodia/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nitin-jarodia/DSA/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/nitin-jarodia/DSA/tree/master/0567-permutation-in-string) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nitin-jarodia/DSA/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/nitin-jarodia/DSA/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/nitin-jarodia/DSA/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/nitin-jarodia/DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
@@ -194,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/nitin-jarodia/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/nitin-jarodia/DSA/tree/master/0853-car-fleet) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/nitin-jarodia/DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
