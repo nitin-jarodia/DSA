@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/nitin-jarodia/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/nitin-jarodia/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/nitin-jarodia/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/nitin-jarodia/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/nitin-jarodia/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/nitin-jarodia/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/nitin-jarodia/DSA/tree/master/0658-find-k-closest-elements) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/nitin-jarodia/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitin-jarodia/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/nitin-jarodia/DSA/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/nitin-jarodia/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/nitin-jarodia/DSA/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/nitin-jarodia/DSA/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/nitin-jarodia/DSA/tree/master/0881-boats-to-save-people) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nitin-jarodia/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nitin-jarodia/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/nitin-jarodia/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/nitin-jarodia/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0658-find-k-closest-elements](https://github.com/nitin-jarodia/DSA/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/nitin-jarodia/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nitin-jarodia/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -209,4 +212,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nitin-jarodia/DSA/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/nitin-jarodia/DSA/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nitin-jarodia/DSA/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nitin-jarodia/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
