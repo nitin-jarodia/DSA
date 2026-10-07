@@ -161,6 +161,7 @@
 | [0014-longest-common-prefix](https://github.com/nitin-jarodia/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nitin-jarodia/DSA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/nitin-jarodia/DSA/tree/master/0071-simplify-path) |
+| [0301-remove-invalid-parentheses](https://github.com/nitin-jarodia/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitin-jarodia/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/nitin-jarodia/DSA/tree/master/0567-permutation-in-string) |
 | [2833-furthest-point-from-origin](https://github.com/nitin-jarodia/DSA/tree/master/2833-furthest-point-from-origin) |
@@ -255,6 +256,7 @@
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/nitin-jarodia/DSA/tree/master/0047-permutations-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/nitin-jarodia/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -271,4 +273,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/nitin-jarodia/DSA/tree/master/0098-validate-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/nitin-jarodia/DSA/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
