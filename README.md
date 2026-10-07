@@ -36,6 +36,7 @@
 | [0875-koko-eating-bananas](https://github.com/nitin-jarodia/DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/nitin-jarodia/DSA/tree/master/0881-boats-to-save-people) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nitin-jarodia/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1306-jump-game-iii](https://github.com/nitin-jarodia/DSA/tree/master/1306-jump-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nitin-jarodia/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/nitin-jarodia/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nitin-jarodia/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -265,6 +266,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/nitin-jarodia/DSA/tree/master/0098-validate-binary-search-tree) |
+| [1306-jump-game-iii](https://github.com/nitin-jarodia/DSA/tree/master/1306-jump-game-iii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -277,4 +279,5 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/nitin-jarodia/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [1306-jump-game-iii](https://github.com/nitin-jarodia/DSA/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
