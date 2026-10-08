@@ -165,6 +165,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/nitin-jarodia/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/nitin-jarodia/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/nitin-jarodia/DSA/tree/master/0567-permutation-in-string) |
+| [1021-remove-outermost-parentheses](https://github.com/nitin-jarodia/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [2833-furthest-point-from-origin](https://github.com/nitin-jarodia/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -209,6 +210,7 @@
 | [0735-asteroid-collision](https://github.com/nitin-jarodia/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nitin-jarodia/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/nitin-jarodia/DSA/tree/master/0853-car-fleet) |
+| [1021-remove-outermost-parentheses](https://github.com/nitin-jarodia/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -218,6 +220,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nitin-jarodia/DSA/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/nitin-jarodia/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Database
 |  |
 | ------- |
