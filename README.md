@@ -137,6 +137,7 @@
 | [0011-container-with-most-water](https://github.com/nitin-jarodia/DSA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/nitin-jarodia/DSA/tree/master/0045-jump-game-ii) |
 | [0881-boats-to-save-people](https://github.com/nitin-jarodia/DSA/tree/master/0881-boats-to-save-people) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nitin-jarodia/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/nitin-jarodia/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/nitin-jarodia/DSA/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/nitin-jarodia/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nitin-jarodia/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2833-furthest-point-from-origin](https://github.com/nitin-jarodia/DSA/tree/master/2833-furthest-point-from-origin) |
 ## Heap (Priority Queue)
 |  |
@@ -211,6 +213,7 @@
 | [0739-daily-temperatures](https://github.com/nitin-jarodia/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/nitin-jarodia/DSA/tree/master/0853-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/nitin-jarodia/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nitin-jarodia/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Simulation
 |  |
 | ------- |
@@ -221,6 +224,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/nitin-jarodia/DSA/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/nitin-jarodia/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/nitin-jarodia/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Database
 |  |
 | ------- |
