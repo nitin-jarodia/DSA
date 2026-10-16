@@ -42,6 +42,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/nitin-jarodia/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nitin-jarodia/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nitin-jarodia/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nitin-jarodia/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nitin-jarodia/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitin-jarodia/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nitin-jarodia/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -59,6 +60,7 @@
 | [0567-permutation-in-string](https://github.com/nitin-jarodia/DSA/tree/master/0567-permutation-in-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nitin-jarodia/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nitin-jarodia/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nitin-jarodia/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nitin-jarodia/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitin-jarodia/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Matrix
@@ -303,4 +305,12 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/nitin-jarodia/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1306-jump-game-iii](https://github.com/nitin-jarodia/DSA/tree/master/1306-jump-game-iii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nitin-jarodia/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nitin-jarodia/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
