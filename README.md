@@ -39,6 +39,7 @@
 | [1306-jump-game-iii](https://github.com/nitin-jarodia/DSA/tree/master/1306-jump-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nitin-jarodia/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/nitin-jarodia/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nitin-jarodia/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nitin-jarodia/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nitin-jarodia/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nitin-jarodia/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nitin-jarodia/DSA/tree/master/0169-majority-element) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nitin-jarodia/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | [0007-reverse-integer](https://github.com/nitin-jarodia/DSA/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nitin-jarodia/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/nitin-jarodia/DSA/tree/master/0189-rotate-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nitin-jarodia/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nitin-jarodia/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/nitin-jarodia/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/nitin-jarodia/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -173,6 +176,7 @@
 | [0045-jump-game-ii](https://github.com/nitin-jarodia/DSA/tree/master/0045-jump-game-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitin-jarodia/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nitin-jarodia/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nitin-jarodia/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## String
 |  |
 | ------- |
@@ -290,6 +294,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/nitin-jarodia/DSA/tree/master/0098-validate-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nitin-jarodia/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -299,10 +304,12 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/nitin-jarodia/DSA/tree/master/0098-validate-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nitin-jarodia/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/nitin-jarodia/DSA/tree/master/0098-validate-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nitin-jarodia/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -316,4 +323,20 @@
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/nitin-jarodia/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nitin-jarodia/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nitin-jarodia/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nitin-jarodia/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nitin-jarodia/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
