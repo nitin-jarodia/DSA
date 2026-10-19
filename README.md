@@ -40,6 +40,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nitin-jarodia/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/nitin-jarodia/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nitin-jarodia/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nitin-jarodia/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nitin-jarodia/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nitin-jarodia/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/nitin-jarodia/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -111,6 +112,7 @@
 | [0658-find-k-closest-elements](https://github.com/nitin-jarodia/DSA/tree/master/0658-find-k-closest-elements) |
 | [0853-car-fleet](https://github.com/nitin-jarodia/DSA/tree/master/0853-car-fleet) |
 | [0881-boats-to-save-people](https://github.com/nitin-jarodia/DSA/tree/master/0881-boats-to-save-people) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nitin-jarodia/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nitin-jarodia/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitin-jarodia/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nitin-jarodia/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -134,6 +136,7 @@
 | [0875-koko-eating-bananas](https://github.com/nitin-jarodia/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nitin-jarodia/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nitin-jarodia/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nitin-jarodia/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/nitin-jarodia/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Math
 |  |
