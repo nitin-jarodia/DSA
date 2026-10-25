@@ -36,6 +36,7 @@
 | [0875-koko-eating-bananas](https://github.com/nitin-jarodia/DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/nitin-jarodia/DSA/tree/master/0881-boats-to-save-people) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nitin-jarodia/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1254-number-of-closed-islands](https://github.com/nitin-jarodia/DSA/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/nitin-jarodia/DSA/tree/master/1306-jump-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/nitin-jarodia/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/nitin-jarodia/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -74,6 +75,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/nitin-jarodia/DSA/tree/master/0036-valid-sudoku) |
+| [1254-number-of-closed-islands](https://github.com/nitin-jarodia/DSA/tree/master/1254-number-of-closed-islands) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -309,6 +311,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/nitin-jarodia/DSA/tree/master/0098-validate-binary-search-tree) |
+| [1254-number-of-closed-islands](https://github.com/nitin-jarodia/DSA/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/nitin-jarodia/DSA/tree/master/1306-jump-game-iii) |
 ## Binary Search Tree
 |  |
@@ -324,6 +327,7 @@
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/nitin-jarodia/DSA/tree/master/0301-remove-invalid-parentheses) |
+| [1254-number-of-closed-islands](https://github.com/nitin-jarodia/DSA/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/nitin-jarodia/DSA/tree/master/1306-jump-game-iii) |
 ## Binary Indexed Tree
 |  |
@@ -336,6 +340,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/nitin-jarodia/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nitin-jarodia/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
