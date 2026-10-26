@@ -49,6 +49,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nitin-jarodia/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/nitin-jarodia/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/nitin-jarodia/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nitin-jarodia/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/nitin-jarodia/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/nitin-jarodia/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/nitin-jarodia/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/nitin-jarodia/DSA/tree/master/0036-valid-sudoku) |
 | [1254-number-of-closed-islands](https://github.com/nitin-jarodia/DSA/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nitin-jarodia/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -313,6 +315,7 @@
 | [0098-validate-binary-search-tree](https://github.com/nitin-jarodia/DSA/tree/master/0098-validate-binary-search-tree) |
 | [1254-number-of-closed-islands](https://github.com/nitin-jarodia/DSA/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/nitin-jarodia/DSA/tree/master/1306-jump-game-iii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nitin-jarodia/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -329,6 +332,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/nitin-jarodia/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/nitin-jarodia/DSA/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/nitin-jarodia/DSA/tree/master/1306-jump-game-iii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nitin-jarodia/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -342,6 +346,7 @@
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/nitin-jarodia/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nitin-jarodia/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/nitin-jarodia/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Memoization
 |  |
 | ------- |
