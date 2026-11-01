@@ -26,6 +26,7 @@
 | [0219-contains-duplicate-ii](https://github.com/nitin-jarodia/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nitin-jarodia/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/nitin-jarodia/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nitin-jarodia/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/nitin-jarodia/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/nitin-jarodia/DSA/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/nitin-jarodia/DSA/tree/master/0682-baseball-game) |
@@ -155,6 +156,7 @@
 | [0007-reverse-integer](https://github.com/nitin-jarodia/DSA/tree/master/0007-reverse-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nitin-jarodia/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/nitin-jarodia/DSA/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/nitin-jarodia/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/nitin-jarodia/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/nitin-jarodia/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/nitin-jarodia/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
